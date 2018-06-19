@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurakeclientapple/eurakeclientapple.iml" filepath="$PROJECT_DIR$/eurakeclientapple/eurakeclientapple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurakeserverapple/eurakeclientapple.iml" filepath="$PROJECT_DIR$/eurakeserverapple/eurakeclientapple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurakeserverapple/eurakeserverapple.iml" filepath="$PROJECT_DIR$/eurakeserverapple/eurakeserverapple.iml" />
+    </modules>
+  </component>
+</project>
